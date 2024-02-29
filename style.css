@@ -5,8 +5,7 @@
 
 html {
     background : #202342;
-    /* background: red; */
-    /* overflow: hidden; */
+    overflow-x: hidden;
     padding : 0 auto;
 }
 
